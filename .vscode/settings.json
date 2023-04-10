@@ -275,5 +275,6 @@
     "**/.vscode",
     "**/.vscode/**"
   ],
-  "C_Cpp_Runner.useAddressSanitizer": false
+  "C_Cpp_Runner.useAddressSanitizer": false,
+  "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools"
 }
